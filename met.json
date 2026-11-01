@@ -1,0 +1,28 @@
+{
+  "issued": "2026-10-31T16:47+04:00",
+  "station": "Bushehr · MET Norway (yr.no)",
+  "written_by": "Claude session, seed of the embedded forecast",
+  "segments": [
+    {"start": "2026-11-03T06:00+04:00", "end": "2026-11-03T15:00+04:00", "from": 20, "spd": 3, "src": "fc"},
+    {"start": "2026-11-03T15:00+04:00", "end": "2026-11-04T03:00+04:00", "from": 315, "spd": 6, "src": "fc"},
+    {"start": "2026-11-04T03:00+04:00", "end": "2026-11-04T09:00+04:00", "from": 0, "spd": 7, "src": "fc"},
+    {"start": "2026-11-04T09:00+04:00", "end": "2026-11-05T03:00+04:00", "from": 315, "spd": 6.5, "src": "fc"},
+    {"start": "2026-11-05T03:00+04:00", "end": "2026-11-06T03:00+04:00", "from": 315, "spd": 5, "src": "fs"},
+    {"start": "2026-11-06T03:00+04:00", "end": "2026-11-07T03:00+04:00", "from": 315, "spd": 6, "src": "fs", "rain": 2.1},
+    {"start": "2026-11-07T03:00+04:00", "end": "2026-11-08T03:00+04:00", "from": 315, "spd": 8, "src": "fs", "rain": 3.6},
+    {"start": "2026-11-08T03:00+04:00", "end": "2026-11-09T03:00+04:00", "from": 315, "spd": 5, "src": "fs"},
+    {"start": "2026-11-09T03:00+04:00", "end": "2026-11-10T03:00+04:00", "from": 315, "spd": 5, "src": "fs", "rain": 1.4}
+  ],
+  "daily": [
+    {"date": "31 Oct", "spd": 5, "dir": null, "src": "fc"},
+    {"date": "1 Nov", "spd": 5, "dir": null, "src": "fc"},
+    {"date": "2 Nov", "spd": 4, "dir": "var", "src": "fc"},
+    {"date": "3 Nov", "spd": 6, "dir": "N→NW", "src": "fc"},
+    {"date": "4 Nov", "spd": 7, "dir": "N→NW", "src": "fc"},
+    {"date": "5 Nov", "spd": 5, "dir": "NW*", "src": "fs"},
+    {"date": "6 Nov", "spd": 6, "dir": "NW*", "src": "fs"},
+    {"date": "7 Nov", "spd": 8, "dir": "NW*", "src": "fs"},
+    {"date": "8 Nov", "spd": 5, "dir": "NW*", "src": "fs"},
+    {"date": "9 Nov", "spd": 5, "dir": "NW*", "src": "fs"}
+  ]
+}
